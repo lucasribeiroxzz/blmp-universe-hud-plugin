@@ -1,7 +1,0 @@
-name: BLMPUNIVERSE
-version: 1.2
-main: me.blmp.universe.Main
-api-version: 1.20
-commands:
-  blmp:
-    description: toggle
